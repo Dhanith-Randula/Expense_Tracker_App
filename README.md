@@ -448,7 +448,7 @@ The demonstration covers:
 ## 📦 APK
 
 **Android APK:**
-`<ADD_RELEASE_APK_LINK>`
+`\build\app\outputs\flutter-apk\app-release.apk`
 
 ---
 
