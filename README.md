@@ -405,24 +405,41 @@ Recommended screenshots:
 
 Example:
 
-```markdown
+
 ## Screenshots
 
-### Login
-![Login](/screenshots/01-login.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Expense History
-![Expense History](screenshots/history.png)
-
-### Statistics
-![Statistics](screenshots/statistics.png)
-
-### Dark Mode
-![Dark Mode](screenshots/dark-mode.png)
-```
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>Login</b><br>
+      <img src="screenshots/login.png" alt="Login" width="250">
+    </td>
+    <td align="center">
+      <b>Dashboard</b><br>
+      <img src="screenshots/dashboard.png" alt="Dashboard" width="250">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Expense History</b><br>
+      <img src="screenshots/history.png" alt="Expense History" width="250">
+    </td>
+    <td align="center">
+      <b>Statistics</b><br>
+      <img src="screenshots/statistics.png" alt="Statistics" width="250">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Add Expense</b><br>
+      <img src="screenshots/add-expense.png" alt="Add Expense" width="250">
+    </td>
+    <td align="center">
+      <b>Dark Mode</b><br>
+      <img src="screenshots/dark-mode.png" alt="Dark Mode" width="250">
+    </td>
+  </tr>
+</table>
 
 ---
 
