@@ -409,7 +409,7 @@ Example:
 ## Screenshots
 
 ### Login
-![Login](screenshots/login.png)
+![Login](/screenshots/01-login.png)
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
@@ -423,25 +423,6 @@ Example:
 ### Dark Mode
 ![Dark Mode](screenshots/dark-mode.png)
 ```
-
----
-
-## 🎥 Demo
-
-**Demo Video:**
-`<ADD_YOUTUBE_OR_GOOGLE_DRIVE_LINK>`
-
-The demonstration covers:
-
-* User authentication
-* Dashboard
-* Adding an expense
-* Editing an expense
-* Deleting an expense
-* Search and filtering
-* Statistics and charts
-* Dark mode
-* Firebase functionality
 
 ---
 
